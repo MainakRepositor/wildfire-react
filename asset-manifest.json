@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wildfire-react/static/css/main.a884c214.chunk.css",
+    "main.js": "/wildfire-react/static/js/main.d1b53319.chunk.js",
+    "main.js.map": "/wildfire-react/static/js/main.d1b53319.chunk.js.map",
+    "runtime-main.js": "/wildfire-react/static/js/runtime-main.227f67c5.js",
+    "runtime-main.js.map": "/wildfire-react/static/js/runtime-main.227f67c5.js.map",
+    "static/js/2.e0410375.chunk.js": "/wildfire-react/static/js/2.e0410375.chunk.js",
+    "static/js/2.e0410375.chunk.js.map": "/wildfire-react/static/js/2.e0410375.chunk.js.map",
+    "static/js/3.b39b69a9.chunk.js": "/wildfire-react/static/js/3.b39b69a9.chunk.js",
+    "static/js/3.b39b69a9.chunk.js.map": "/wildfire-react/static/js/3.b39b69a9.chunk.js.map",
+    "index.html": "/wildfire-react/index.html",
+    "static/css/main.a884c214.chunk.css.map": "/wildfire-react/static/css/main.a884c214.chunk.css.map",
+    "static/js/2.e0410375.chunk.js.LICENSE.txt": "/wildfire-react/static/js/2.e0410375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.227f67c5.js",
+    "static/js/2.e0410375.chunk.js",
+    "static/css/main.a884c214.chunk.css",
+    "static/js/main.d1b53319.chunk.js"
+  ]
+}
